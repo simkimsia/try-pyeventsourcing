@@ -1,0 +1,4 @@
+cookiecutter
+eventsourcing
+pytest
+pytest-cov
